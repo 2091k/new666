@@ -1,5 +1,8 @@
-name = "cf-cheerio-spider"
-compatibility_date = "2024-04-01"
-node_compat = true
+name = "my-cloudflare-project"
+compatibility_date = "2025-04-19"
 pages_build_output_dir = "./dist"
-  compatibility_flags = ["nodejs_compat"]
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+# 在此处添加您的环境变量，例如：
+# API_KEY = "your-api-key"
