@@ -1,9 +1,5 @@
 {
-  "name": "cf-cheerio-spider",
-  "type": "module",
+  "name": "my-cf-pages-project",
   "version": "1.0.0",
-  "dependencies": {
-    "cheerio": "^1.0.0-rc.12",
-    "undici": "^6.6.0"
-  }
+  "type": "module"
 }
