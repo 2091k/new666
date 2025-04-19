@@ -1,10 +1,9 @@
 {
   "name": "cf-cheerio-spider",
-  "version": "1.0.0",
-  "main": "functions/index.js",
   "type": "module",
+  "version": "1.0.0",
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
-    "undici": "^6.5.0"
+    "undici": "^6.6.0"
   }
 }
