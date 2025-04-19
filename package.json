@@ -1,8 +1,10 @@
 {
-  "name": "video-crawler",
+  "name": "cf-cheerio-spider",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "functions/index.js",
+  "type": "module",
   "dependencies": {
-    "cheerio": "^1.0.0"
+    "cheerio": "^1.0.0-rc.12",
+    "undici": "^6.5.0"
   }
 }
